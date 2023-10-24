@@ -7,12 +7,15 @@
 
 import Foundation
 
-protocol ConfigFeature: AnyObject {
+public protocol ConfigFeature: AnyObject {
     func fetchMSCModel()
 }
 
 public final class BaseMSCConfig: ConfigFeature {
-    func fetchMSCModel() {
+
+    public init() {}
+
+    public func fetchMSCModel() {
         print("zzzzzz fetch successfully")
     }
 }
