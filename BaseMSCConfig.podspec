@@ -5,9 +5,9 @@ Pod::Spec.new do |spec|
   spec.summary      = "Common config app"
   spec.description  = "Create common config"
 
-  spec.homepage     = "http://EXAMPLE/BaseMSCConfig"
+  spec.homepage     = "https://github.com/msctechglobal/BaseMSCConfig.git"
   spec.license      = "MIT"
-  spec.author             = { "Duc Canh" => "tranduccanh3008@gmail.com" }
+  spec.author             = { "msctechglobal" => "it.msc.global@gmail.com" }
 
   spec.platform     = :ios, "13.0"
 

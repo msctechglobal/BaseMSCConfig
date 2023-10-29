@@ -1,0 +1,16 @@
+PODS:
+  - BaseMSCConfig (1.0.0)
+
+DEPENDENCIES:
+  - BaseMSCConfig (from `../BaseMSCConfig/`)
+
+EXTERNAL SOURCES:
+  BaseMSCConfig:
+    :path: "../BaseMSCConfig/"
+
+SPEC CHECKSUMS:
+  BaseMSCConfig: 6f2f5ba2e4f9bb1818c4126335c8a2ae100b89d9
+
+PODFILE CHECKSUM: 1c7ec9eb9603f582eb11fb6b5f6e15069681b084
+
+COCOAPODS: 1.14.2
