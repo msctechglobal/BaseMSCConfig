@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BaseMSCConfig"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "Common config app"
   spec.description  = "Create common config"
 
